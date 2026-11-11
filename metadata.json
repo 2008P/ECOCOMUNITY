@@ -1,0 +1,6 @@
+{
+  "name": "EcoCommunity",
+  "description": "Plataforma inteligente de reciclaje ciudadano con clasificación por IA Gemini, geofencing de puntos limpios, billetera de recompensas Ecocoins y trazabilidad ESG.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
